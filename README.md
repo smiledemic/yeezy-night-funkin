@@ -2,7 +2,7 @@
 
 Ye (AKA Kanye West) has hit Friday Night Funkin'! A fan-made [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) mod where you play the charts to many of his biggest hits.
 
-### ▶ [Play it in your browser](https://smiledemic.github.io/yeezy-night-funkin/)
+### ▶ [Play it in your browser](https://smiledemic.github.io./yeezy-night-funkin/)
 
 No download needed. Click the page once after it loads so your browser allows sound, then use the menu.
 
