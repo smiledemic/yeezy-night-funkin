@@ -1,6 +1,6 @@
 # Yeezy Night Funkin' (YZY WK 0.1.4)
 
-Ye (FKA Kanye West) has hit Friday Night Funkin'! A fan-made [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) mod where you play the charts to many of his biggest hits.
+Ye (AKA Kanye West) has hit Friday Night Funkin'! A fan-made [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) mod where you play the charts to many of his biggest hits.
 
 ### ▶ [Play it in your browser](https://smiledemic.github.io/yeezy-night-funkin/)
 
