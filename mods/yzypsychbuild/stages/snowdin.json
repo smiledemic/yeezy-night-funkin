@@ -1,0 +1,75 @@
+{
+	"camera_boyfriend": [
+		0,
+		0
+	],
+	"preload": {
+		"images/stageback": 3,
+		"images/stagefront": 3,
+		"images/stagecurtains": 2,
+		"images/stage_light": 2
+	},
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"dad": "tankman",
+		"gf": "gf"
+	},
+	"boyfriend": [
+		932,
+		35
+	],
+	"stageUI": "",
+	"girlfriend": [
+		400,
+		130
+	],
+	"defaultZoom": 0.7,
+	"objects": [
+		{
+			"x": -555,
+			"y": -294,
+			"scale": [
+				1,
+				1
+			],
+			"image": "BG/snowdin",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"opponent": [
+		61,
+		43
+	],
+	"directory": "week1",
+	"camera_speed": 0.6,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		0,
+		0
+	]
+}

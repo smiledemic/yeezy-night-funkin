@@ -1,0 +1,9 @@
+{
+	"idle_anim": "menu_bear idle",
+	"image": "menu_bear",
+	"position": [490, 14],
+	"flipX": false,
+	"antialiasing": true,
+	"scale": 1,
+	"confirm_anim": "menu_bear idle"
+}

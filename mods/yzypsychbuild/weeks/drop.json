@@ -1,0 +1,59 @@
+{
+	"storyName": "the college dropout - kanye west",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "drop",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"We dont care",
+			"collegebear",
+			[
+				139,
+				69,
+				19
+			]
+		],
+		[
+			"all falls down",
+			"collegebear",
+			[
+				139,
+				69,
+				19
+			]
+		],
+		[
+			"The new workout plan",
+			"collegebear",
+			[
+				139,
+				69,
+				19
+			]
+		],
+		[
+			"through the wire",
+			"collegebear",
+			[
+				139,
+				69,
+				19
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"menubear",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "dropout"
+}

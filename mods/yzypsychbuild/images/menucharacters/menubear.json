@@ -1,0 +1,9 @@
+{
+	"idle_anim": "menubear sleep0008",
+	"image": "menubear",
+	"position": [490, 14],
+	"flipX": false,
+	"antialiasing": true,
+	"scale": 1,
+	"confirm_anim": "menubear wakeup"
+}

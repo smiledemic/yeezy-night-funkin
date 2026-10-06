@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		90,
+		60
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "UP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "UP",
+			"anim": "Cigar",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Idle",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Idle",
+			"anim": "Idle",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "collegebear"
+}

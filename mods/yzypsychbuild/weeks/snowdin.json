@@ -1,0 +1,50 @@
+{
+	"storyName": "snas!!!",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "snowdin",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "drop",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"snowdin",
+			"sansye",
+			[
+				180,
+				109,
+				219
+			]
+		],
+		[
+			"hopes-and-dreams",
+			"sansye",
+			[
+				180,
+				109,
+				219
+			]
+		],
+		[
+			"finale",
+			"sansye",
+			[
+				180,
+				109,
+				219
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "snowdin",
+	"hiddenUntilUnlocked": false
+}

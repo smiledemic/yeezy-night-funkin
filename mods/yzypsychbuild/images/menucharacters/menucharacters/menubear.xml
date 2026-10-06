@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menubear.png">
+<SubTexture name="menubear sleep0000" x="0" y="0" width="1280" height="386" frameX="0" frameY="0" frameWidth="1280" frameHeight="386" />
+<SubTexture name="menubear sleep0001" x="0" y="0" width="1280" height="386" frameX="0" frameY="0" frameWidth="1280" frameHeight="386" />
+<SubTexture name="menubear sleep0002" x="0" y="0" width="1280" height="386" frameX="0" frameY="0" frameWidth="1280" frameHeight="386" />
+<SubTexture name="menubear sleep0003" x="0" y="386" width="1280" height="386" frameX="0" frameY="0" frameWidth="1280" frameHeight="386" />
+<SubTexture name="menubear sleep0004" x="0" y="772" width="1280" height="386" frameX="0" frameY="0" frameWidth="1280" frameHeight="386" />
+<SubTexture name="menubear sleep0005" x="1280" y="0" width="1280" height="386" frameX="0" frameY="0" frameWidth="1280" frameHeight="386" />
+<SubTexture name="menubear sleep0006" x="1280" y="386" width="1280" height="386" frameX="0" frameY="0" frameWidth="1280" frameHeight="386" />
+<SubTexture name="menubear sleep0007" x="1280" y="772" width="1280" height="386" frameX="0" frameY="0" frameWidth="1280" frameHeight="386" />
+<SubTexture name="menubear sleep0008" x="1280" y="772" width="1280" height="386" frameX="0" frameY="0" frameWidth="1280" frameHeight="386" />
+<SubTexture name="menubear sleep0009" x="1280" y="772" width="1280" height="386" frameX="0" frameY="0" frameWidth="1280" frameHeight="386" />
+<SubTexture name="menubear sleep0010" x="1280" y="772" width="1280" height="386" frameX="0" frameY="0" frameWidth="1280" frameHeight="386" />
+<SubTexture name="menubear sleep0011" x="1280" y="772" width="1280" height="386" frameX="0" frameY="0" frameWidth="1280" frameHeight="386" />
+<SubTexture name="menubear wakeup0000" x="0" y="1158" width="1280" height="386" frameX="0" frameY="0" frameWidth="1280" frameHeight="386" />
+<SubTexture name="menubear wakeup0001" x="1280" y="1158" width="1280" height="386" frameX="0" frameY="0" frameWidth="1280" frameHeight="386" />
+<SubTexture name="menubear wakeup0002" x="0" y="1544" width="1280" height="386" frameX="0" frameY="0" frameWidth="1280" frameHeight="386" />
+<SubTexture name="menubear wakeup0003" x="0" y="0" width="1280" height="386" frameX="0" frameY="0" frameWidth="1280" frameHeight="386" />
+</TextureAtlas>

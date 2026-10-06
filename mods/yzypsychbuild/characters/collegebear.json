@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [49, 60],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-5, 86],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-15, 54],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-12, 30],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-16, 55],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/collegebear",
+	"position": [10, 350],
+	"healthicon": "collegebear",
+	"flip_x": false,
+	"healthbar_colors": [138, 25, 5],
+	"camera_position": [90, -60],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

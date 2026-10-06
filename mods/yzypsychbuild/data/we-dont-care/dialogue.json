@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"expression": "Idle",
+			"text": "Kanye, can I talk to you for a minute?",
+			"boxState": "normal",
+			"sound": "yedialogue",
+			"speed": 0.035,
+			"portrait": "collegebear"
+		},
+		{
+			"expression": "Cigar",
+			"text": "Me and the other faculty members was wonderin' Could you do a lil' som",
+			"boxState": "normal",
+			"sound": "yedialogue",
+			"speed": 0.03,
+			"portrait": "collegebear"
+		},
+		{
+			"expression": "Cigar",
+			"text": "Somethin' beautiful, somethin' that the kids is gon' love when they hear it",
+			"boxState": "normal",
+			"sound": "yedialogue",
+			"speed": 0.015,
+			"portrait": "collegebear"
+		},
+		{
+			"expression": "Cigar",
+			"text": "That's gon' make them start jumpin' up and down, and sharin' candy and stuff",
+			"boxState": "angry",
+			"sound": "yedialogue",
+			"speed": 0.015,
+			"portrait": "collegebear"
+		},
+		{
+			"expression": "Cigar",
+			"text": "Think you could probably do somethin', for the kids, for graduation to sing?",
+			"boxState": "normal",
+			"sound": "yedialogue",
+			"speed": 0.015,
+			"portrait": "collegebear"
+		}
+	]
+}
